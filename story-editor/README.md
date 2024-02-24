@@ -45,6 +45,13 @@ update-alternatives --config x86_64-w64-mingw32-gcc
 
 ```
 
+navigate to the build folder
+
+```
+cd /workspace
+mkdir build
+cd build
+```
 
 Cross build, first generate the Makefile:
 
