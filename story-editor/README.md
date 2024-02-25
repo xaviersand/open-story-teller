@@ -45,6 +45,14 @@ update-alternatives --config x86_64-w64-mingw32-gcc
 
 ```
 
+Cross build, first generate the Makefile:
+
+```
+cd /workspace/story-editor/
+mkdir build
+cd build
+```
+
 
 Cross build, first generate the Makefile:
 
